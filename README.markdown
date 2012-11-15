@@ -15,4 +15,4 @@ to install the required libcouchbase for Ubuntu 10.04.
 ## Testing
 
 I used [JMeter](http://jmeter.apache.org/) to load test this thingy and worked out quite well even with the
-plan stupidity of the code. :)
+plain stupidity of the code. :)
